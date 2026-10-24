@@ -18,8 +18,8 @@ Below is a curated map of my DevOps-focused work, grouped by domain. Full repo l
 
 - **[devsecops-github-actions](https://github.com/atkaridarshan04/devsecops-github-actions)** — DevSecOps pipeline: code quality (SonarCloud), container scanning (Trivy, Gitleaks), and K8s delivery.
 - **[shared-ci-actions](https://github.com/atkaridarshan04/shared-ci-actions)** — Reusable GitHub Actions for a build, scan, and promote pipeline.
-- **[github-gitlab-cicd-pipeline](https://github.com/atkaridarshan04/github-gitlab-cicd-pipeline)** — CI/CD pipeline with DevSecOps principles, implemented across both GitHub Actions and GitLab CI.
-- **[jenkins-shared-library](https://github.com/atkaridarshan04/jenkins-shared-library)** — Reusable pipeline library for Jenkins.
+<!-- - **[github-gitlab-cicd-pipeline](https://github.com/atkaridarshan04/github-gitlab-cicd-pipeline)** — CI/CD pipeline with DevSecOps principles, implemented across both GitHub Actions and GitLab CI. -->
+<!-- - **[jenkins-shared-library](https://github.com/atkaridarshan04/jenkins-shared-library)** — Reusable pipeline library for Jenkins. -->
 
 ## MLOps
 
